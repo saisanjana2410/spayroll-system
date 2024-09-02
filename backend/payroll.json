@@ -1,0 +1,36 @@
+[
+    {
+        "level" : 1,
+        "annual_salary": 50000,
+        "basic": 55,
+        "hra":20,
+        "special_allowance":10,
+        "pf":10,
+        "tax":5,
+        "bonus":5
+
+    },
+    {
+        "level" : 2,
+        "annual_salary": 100000,
+        "basic": 52,
+        "hra":18,
+        "special_allowance":10,
+        "pf":10,
+        "tax":10,
+        "bonus":5
+
+    },
+    {
+        "level" : 3,
+        "annual_salary": 150000,
+        "basic": 48,
+        "hra":17,
+        "special_allowance":10,
+        "pf":10,
+        "tax":15, 
+        "bonus":5
+
+    }
+
+]

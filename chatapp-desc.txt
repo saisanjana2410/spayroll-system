@@ -1,0 +1,36 @@
+in models 
+write chatModel, MessageModel
+in routes
+chatRoute.js
+in index.js import chatRoute.js
+test
+in routes
+messageRoute.js
+use messageRoute.js in index.js
+test
+
+socket folder outside backend
+npm i socket.io nodemon
+in package.json replace scripts with
+"scripts": {
+    "start": "nodemon index.js"
+  },
+
+Front end
+npm install @iconscout/react-unicons --save
+ npm install axios --save
+ npm i timeago.js
+ npm install react-input-emoji
+ npm install socket.io-client
+
+in components
+Chat.css and Chat.js
+
+api folder in src
+ChatRequests.js
+MessageRequests.js
+
+in components
+Coversation.js
+ChatBox.js
+ChatBox.css
